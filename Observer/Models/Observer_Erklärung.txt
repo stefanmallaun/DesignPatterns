@@ -1,0 +1,29 @@
+﻿Observer Pattern Erklärung
+ 
+Sinn:
+	Es gibt Daten welche sich unregelmäßig ändern zudem gibt es mehrere Klassen die an den Daten (zB. Aktienwert) interesiert sind
+	(zB. grafische Darstellung, statistische Auswertung, ...). Diese Klassen sollten nicht zB. pro Minute 10 mal nachfragen, sondern 
+	sie sollten bei einer Änderung der Daten automatisch benachrichtigt werden.
+ 
+Subjekt und IMyObserver bleiben immer gleich (!)
+Subjekt:
+	Methoden: 
+		-Register() - hinzufügern eines Observers
+		-Unregister() - abmelden eines Observers
+		-Notify() - alle angemeldeten Observer werden von dieser Methode benachrichtigt
+	Properties:
+		-Liste an Observern die angemeldet sind und benachrichtigt werden
+IMyObserver:
+	Methode:
+		-Update() - sie wird in Notify() im Subjekt aufgerufen
+ 
+Concrete Subject
+	-erbt von Suject
+	-hier sind die Daten (zB. Aktienkurse) enthalten
+	-im Property (set Methode) wird Notify() aufgerufen, sprich sollte nur aufgerufen werden wenn sich der Wert auch tatsächlich 
+	geändert hat
+ 
+mehrere Obserer
+	-implementieren IMyObserver und damit die Methode Update()
+	-enthält eine Instanz von concrete Subject - wird benötigt damit wir auf die Daten (zB. Aktienwert) zugreifen können
+	-Update(): verwendet die Daten (zB. Ausgabe, grafische Darstellung, ...)

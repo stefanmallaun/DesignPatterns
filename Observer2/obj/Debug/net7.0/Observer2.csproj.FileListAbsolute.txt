@@ -1,0 +1,15 @@
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.csproj.AssemblyReference.cache
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.AssemblyInfoInputs.cache
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.AssemblyInfo.cs
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.csproj.CoreCompileInputs.cache
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\bin\Debug\net7.0\Observer2.exe
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\bin\Debug\net7.0\Observer2.deps.json
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\bin\Debug\net7.0\Observer2.runtimeconfig.json
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\bin\Debug\net7.0\Observer2.dll
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\bin\Debug\net7.0\Observer2.pdb
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.dll
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\refint\Observer2.dll
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.pdb
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\Observer2.genruntimeconfig.cache
+C:\New\Desktop\DesignPatterns\DesignPatterns\Observer2\obj\Debug\net7.0\ref\Observer2.dll
