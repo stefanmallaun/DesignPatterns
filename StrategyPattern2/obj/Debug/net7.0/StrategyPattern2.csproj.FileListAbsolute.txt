@@ -1,0 +1,14 @@
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\bin\Debug\net7.0\StrategyPattern2.exe
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\bin\Debug\net7.0\StrategyPattern2.deps.json
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\bin\Debug\net7.0\StrategyPattern2.runtimeconfig.json
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\bin\Debug\net7.0\StrategyPattern2.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\bin\Debug\net7.0\StrategyPattern2.pdb
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.AssemblyInfoInputs.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.AssemblyInfo.cs
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.csproj.CoreCompileInputs.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\refint\StrategyPattern2.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.pdb
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\StrategyPattern2.genruntimeconfig.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern2\obj\Debug\net7.0\ref\StrategyPattern2.dll

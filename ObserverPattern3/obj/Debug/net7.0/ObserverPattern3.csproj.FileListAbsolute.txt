@@ -1,0 +1,14 @@
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\bin\Debug\net7.0\ObserverPattern3.exe
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\bin\Debug\net7.0\ObserverPattern3.deps.json
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\bin\Debug\net7.0\ObserverPattern3.runtimeconfig.json
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\bin\Debug\net7.0\ObserverPattern3.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\bin\Debug\net7.0\ObserverPattern3.pdb
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.AssemblyInfoInputs.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.AssemblyInfo.cs
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.csproj.CoreCompileInputs.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\refint\ObserverPattern3.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.pdb
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ObserverPattern3.genruntimeconfig.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\ObserverPattern3\obj\Debug\net7.0\ref\ObserverPattern3.dll

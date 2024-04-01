@@ -13,3 +13,17 @@ C:\New\Desktop\DesignPatterns\DesignPatterns\StrategyPattern\obj\Debug\net7.0\re
 C:\New\Desktop\DesignPatterns\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
 C:\New\Desktop\DesignPatterns\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
 C:\New\Desktop\DesignPatterns\DesignPatterns\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+C:\Users\malla\Desktop\vogt\DesignPatterns\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll

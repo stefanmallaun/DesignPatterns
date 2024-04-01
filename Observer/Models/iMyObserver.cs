@@ -8,7 +8,7 @@ namespace Observer.Models
 {
     internal interface iMyObserver
     {
-        // I glab egal ob public dazuschreibsch
+        
         void Update();
     }
 }
